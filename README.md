@@ -6,7 +6,7 @@
 
 <p align="center">
   📍 Dhaka, Bangladesh <br/>
-  📧 <a href="mailto:mehdixhasn@gmail.com">mehdixhasn@gmail.com</a>
+  📧 <a href="mailto:mehdixhasn@gmail.com">mehedirobidev@gmail.com</a>
 </p>
 
 ---
