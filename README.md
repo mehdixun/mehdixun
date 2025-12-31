@@ -47,7 +47,7 @@ Currently, I am focused on strengthening my JavaScript fundamentals and explorin
 <p>
   🔗 <a href="https://www.linkedin.com/in/mehedi-robi-76b38739b/" target="_blank">LinkedIn</a><br/>
   🌐 <a href="https://github.com/mehdixun" target="_blank">GitHub</a><br/>
-  📧 <a href="mailto:mehdixhasn@gmail.com">Email</a>
+  🌐 <a href="https://x.com/mehedirobi01" target="_blank">Twitter</a><br/>
 </p>
 
 ---
