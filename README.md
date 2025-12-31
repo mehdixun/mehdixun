@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mehedi Robi</h1>
+<h4 align="center">Hi,</h4>
+<h3 align="center">Seeking for a developer??</h3>
+<h1 align="center">🏆Mehedi Robi is here🏆</h1>
 <h3 align="center">Frontend Web Developer | React & Next.js Enthusiast</h3>
 
 <p align="center">
@@ -37,9 +39,9 @@ I enjoy turning ideas into real-world projects using clean code and modern techn
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mehedi-robi-76b38739b/">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/mehedi-robi-76b38739b/" target="_blank">LinkedIn</a> |
   <a href="https://your-portfolio-link.vercel.app" target="_blank">Portfolio</a> |
-  <a href="mailto:mehedirobi.dev@gmail.com">Email</a>
+  <a href="mailto:mehedirobidev@gmail.com">Email</a>
 </p>
 
 ---
@@ -57,9 +59,3 @@ I enjoy turning ideas into real-world projects using clean code and modern techn
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mehedirobi" />
 </p>
-
----
-
-## ⚡ Fun Fact
-
-I love learning new technologies and building projects that solve real-world problems 🚀
