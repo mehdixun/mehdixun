@@ -1,45 +1,52 @@
-<h4 align="center">Hi,</h4>
-<h3 align="center">Seeking for a developer??</h3>
-<h1 align="center">🏆Mehedi Robi is here🏆</h1>
-<h3 align="center">Frontend Web Developer | React & Next.js Enthusiast</h3>
+<!-- Banner -->
+<img src="https://i.ibb.co/XXXX/banner.png" width="100%" />
 
-<p align="center">
-  📍 Bangladesh <br/>
-  📧 <a href="mailto:mehedirobi.dev@gmail.com">mehedirobi.dev@gmail.com</a>
+## Hi 👋, I'm Mehdi Hasan  
+### Frontend Web Developer
+
+### 🚀 About Me
+I am a Diploma student in Computer Science & Technology.  
+I love building modern, responsive web applications.  
+Currently focused on improving my frontend skills and learning new technologies.
+
+---
+
+### 🔥 Current Activities
+- 🌱 Exploring **Next.js**
+- 💻 Working on a **Tourism Website**
+- 📚 Improving JavaScript & React skills
+
+---
+
+### 🛠️ Skills
+
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+#### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
-
-I’m a passionate Frontend Web Developer from Bangladesh.  
-Currently pursuing a Diploma in Computer Science & Technology (CST) and focused on building modern, responsive, and user-friendly web applications.
-
-I enjoy turning ideas into real-world projects using clean code and modern technologies.
+### 🔗 Social Links
+- 💼 LinkedIn: https://www.linkedin.com/in/your-link
+- 🐙 GitHub: https://github.com/your-username
 
 ---
 
-## 🚀 Current Activities
-
-- 🌱 Exploring **Next.js** and modern React patterns  
-- 🔨 Working on a **Tourism Website** project  
-- 🎯 Practicing **JavaScript & Problem Solving**  
-- 📚 Learning advanced **Frontend development best practices**
-
----
-
-## 🛠 Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,git,github" />
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true" />
 </p>
 
----
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" />
+</p>
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mehedi-robi-76b38739b/" target="_blank">LinkedIn</a> |
-  <a href="https://your-portfolio-link.vercel.app" target="_blank">Portfolio</a> |
-  <a href="mailto:mehedirobidev@gmail.com">Email</a>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" />
 </p>
