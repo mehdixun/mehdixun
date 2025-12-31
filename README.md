@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.ibb.co/XXXX/banner.png" width="100%" />
+<img src="https://i.ibb.co.com/RkX07KWn/Banner-image-mehedi.png" width="100%" />
 
 ## Hi 👋, I'm Mehdi Hasan  
 ### Frontend Web Developer
