@@ -1,15 +1,67 @@
 <!-- Banner -->
 <img src="https://i.ibb.co.com/RkX07KWn/Banner-image-mehedi.png" width="100%" />
 
-There was an error committing your changes: mehdixun has committed since you started editing. See what changed
-Commit message
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true" />
+<h2 align="center">Hi 👋, I'm Mehedi Hasan</h2>
+<h3 align="center">Frontend Web Developer</h3>
+
+<p align="center">
+  📍 Dhaka, Bangladesh <br/>
+  📧 <a href="mailto:mehdixhasn@gmail.com">mehdixhasn@gmail.com</a>
+</p>
+
+---
+
+## 🙋‍♂️ About Me
+
+I am a passionate Frontend Web Developer from Bangladesh and a Diploma student in Computer Science & Technology (CST).  
+I enjoy building clean, responsive, and user-friendly web applications using modern frontend technologies.  
+Currently, I am focused on strengthening my JavaScript fundamentals and exploring modern frameworks.
+
+---
+
+## 🚀 Current Activities
+
+- 🌱 Exploring **Next.js** and advanced React concepts  
+- 💻 Working on a **Tourism Website** project  
+- 🧠 Practicing **JavaScript & problem-solving** regularly  
+- 📚 Improving frontend development best practices  
+
+---
+
+## 🛠️ Skills
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  🔗 <a href="https://www.linkedin.com/in/mehedi-robi-76b38739b/" target="_blank">LinkedIn</a><br/>
+  🌐 <a href="https://github.com/mehdixun" target="_blank">GitHub</a><br/>
+  📧 <a href="mailto:mehdixhasn@gmail.com">Email</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdixun&show_icons=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdixun" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdixun&layout=compact" />
 </p>
