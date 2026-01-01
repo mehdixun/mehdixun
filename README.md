@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://i.ibb.co.com/TDcwwZmh/Banner-img.png" width="100%" />
 
-<h2 align="center">Hi 👋, I'm Mehedi Hasan</h2>
+<h2 align="center">Hi , I'm Mehedi Hasan</h2>
 <h3 align="center">Frontend Web Developer</h3>
 
 <p align="center">
